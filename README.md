@@ -1,6 +1,6 @@
-# multiprovider
+# BMI Calculator
 
-A new Flutter project.
+Flutter Simple Body Mass Index Calculator.
 
 ## Getting Started
 
